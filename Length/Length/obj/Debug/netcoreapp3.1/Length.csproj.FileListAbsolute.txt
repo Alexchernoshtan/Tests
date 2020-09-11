@@ -1,0 +1,13 @@
+C:\Users\alexc\source\repos\Length\Length\bin\Debug\netcoreapp3.1\Length.exe
+C:\Users\alexc\source\repos\Length\Length\bin\Debug\netcoreapp3.1\Length.deps.json
+C:\Users\alexc\source\repos\Length\Length\bin\Debug\netcoreapp3.1\Length.runtimeconfig.json
+C:\Users\alexc\source\repos\Length\Length\bin\Debug\netcoreapp3.1\Length.runtimeconfig.dev.json
+C:\Users\alexc\source\repos\Length\Length\bin\Debug\netcoreapp3.1\Length.dll
+C:\Users\alexc\source\repos\Length\Length\bin\Debug\netcoreapp3.1\Length.pdb
+C:\Users\alexc\source\repos\Length\Length\obj\Debug\netcoreapp3.1\Length.csprojAssemblyReference.cache
+C:\Users\alexc\source\repos\Length\Length\obj\Debug\netcoreapp3.1\Length.AssemblyInfoInputs.cache
+C:\Users\alexc\source\repos\Length\Length\obj\Debug\netcoreapp3.1\Length.AssemblyInfo.cs
+C:\Users\alexc\source\repos\Length\Length\obj\Debug\netcoreapp3.1\Length.csproj.CoreCompileInputs.cache
+C:\Users\alexc\source\repos\Length\Length\obj\Debug\netcoreapp3.1\Length.dll
+C:\Users\alexc\source\repos\Length\Length\obj\Debug\netcoreapp3.1\Length.pdb
+C:\Users\alexc\source\repos\Length\Length\obj\Debug\netcoreapp3.1\Length.genruntimeconfig.cache

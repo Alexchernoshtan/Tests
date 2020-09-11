@@ -1,0 +1,12 @@
+C:\Users\alexc\source\repos\Fibonachi\Fibonachi\bin\Debug\netcoreapp3.1\Fibonachi.exe
+C:\Users\alexc\source\repos\Fibonachi\Fibonachi\bin\Debug\netcoreapp3.1\Fibonachi.deps.json
+C:\Users\alexc\source\repos\Fibonachi\Fibonachi\bin\Debug\netcoreapp3.1\Fibonachi.runtimeconfig.json
+C:\Users\alexc\source\repos\Fibonachi\Fibonachi\bin\Debug\netcoreapp3.1\Fibonachi.runtimeconfig.dev.json
+C:\Users\alexc\source\repos\Fibonachi\Fibonachi\bin\Debug\netcoreapp3.1\Fibonachi.dll
+C:\Users\alexc\source\repos\Fibonachi\Fibonachi\bin\Debug\netcoreapp3.1\Fibonachi.pdb
+C:\Users\alexc\source\repos\Fibonachi\Fibonachi\obj\Debug\netcoreapp3.1\Fibonachi.AssemblyInfoInputs.cache
+C:\Users\alexc\source\repos\Fibonachi\Fibonachi\obj\Debug\netcoreapp3.1\Fibonachi.AssemblyInfo.cs
+C:\Users\alexc\source\repos\Fibonachi\Fibonachi\obj\Debug\netcoreapp3.1\Fibonachi.csproj.CoreCompileInputs.cache
+C:\Users\alexc\source\repos\Fibonachi\Fibonachi\obj\Debug\netcoreapp3.1\Fibonachi.dll
+C:\Users\alexc\source\repos\Fibonachi\Fibonachi\obj\Debug\netcoreapp3.1\Fibonachi.pdb
+C:\Users\alexc\source\repos\Fibonachi\Fibonachi\obj\Debug\netcoreapp3.1\Fibonachi.genruntimeconfig.cache

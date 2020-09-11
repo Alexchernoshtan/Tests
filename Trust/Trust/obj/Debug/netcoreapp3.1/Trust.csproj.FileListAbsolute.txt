@@ -1,0 +1,12 @@
+C:\Users\alexc\source\repos\Trust\Trust\bin\Debug\netcoreapp3.1\Trust.exe
+C:\Users\alexc\source\repos\Trust\Trust\bin\Debug\netcoreapp3.1\Trust.deps.json
+C:\Users\alexc\source\repos\Trust\Trust\bin\Debug\netcoreapp3.1\Trust.runtimeconfig.json
+C:\Users\alexc\source\repos\Trust\Trust\bin\Debug\netcoreapp3.1\Trust.runtimeconfig.dev.json
+C:\Users\alexc\source\repos\Trust\Trust\bin\Debug\netcoreapp3.1\Trust.dll
+C:\Users\alexc\source\repos\Trust\Trust\bin\Debug\netcoreapp3.1\Trust.pdb
+C:\Users\alexc\source\repos\Trust\Trust\obj\Debug\netcoreapp3.1\Trust.AssemblyInfoInputs.cache
+C:\Users\alexc\source\repos\Trust\Trust\obj\Debug\netcoreapp3.1\Trust.AssemblyInfo.cs
+C:\Users\alexc\source\repos\Trust\Trust\obj\Debug\netcoreapp3.1\Trust.csproj.CoreCompileInputs.cache
+C:\Users\alexc\source\repos\Trust\Trust\obj\Debug\netcoreapp3.1\Trust.dll
+C:\Users\alexc\source\repos\Trust\Trust\obj\Debug\netcoreapp3.1\Trust.pdb
+C:\Users\alexc\source\repos\Trust\Trust\obj\Debug\netcoreapp3.1\Trust.genruntimeconfig.cache
