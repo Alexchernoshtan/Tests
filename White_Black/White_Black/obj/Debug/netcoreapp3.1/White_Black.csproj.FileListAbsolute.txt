@@ -1,0 +1,13 @@
+C:\Users\alexc\source\repos\White_Black\White_Black\bin\Debug\netcoreapp3.1\White_Black.exe
+C:\Users\alexc\source\repos\White_Black\White_Black\bin\Debug\netcoreapp3.1\White_Black.deps.json
+C:\Users\alexc\source\repos\White_Black\White_Black\bin\Debug\netcoreapp3.1\White_Black.runtimeconfig.json
+C:\Users\alexc\source\repos\White_Black\White_Black\bin\Debug\netcoreapp3.1\White_Black.runtimeconfig.dev.json
+C:\Users\alexc\source\repos\White_Black\White_Black\bin\Debug\netcoreapp3.1\White_Black.dll
+C:\Users\alexc\source\repos\White_Black\White_Black\bin\Debug\netcoreapp3.1\White_Black.pdb
+C:\Users\alexc\source\repos\White_Black\White_Black\obj\Debug\netcoreapp3.1\White_Black.csprojAssemblyReference.cache
+C:\Users\alexc\source\repos\White_Black\White_Black\obj\Debug\netcoreapp3.1\White_Black.AssemblyInfoInputs.cache
+C:\Users\alexc\source\repos\White_Black\White_Black\obj\Debug\netcoreapp3.1\White_Black.AssemblyInfo.cs
+C:\Users\alexc\source\repos\White_Black\White_Black\obj\Debug\netcoreapp3.1\White_Black.csproj.CoreCompileInputs.cache
+C:\Users\alexc\source\repos\White_Black\White_Black\obj\Debug\netcoreapp3.1\White_Black.dll
+C:\Users\alexc\source\repos\White_Black\White_Black\obj\Debug\netcoreapp3.1\White_Black.pdb
+C:\Users\alexc\source\repos\White_Black\White_Black\obj\Debug\netcoreapp3.1\White_Black.genruntimeconfig.cache
