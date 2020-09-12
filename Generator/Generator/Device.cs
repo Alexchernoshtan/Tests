@@ -6,15 +6,10 @@ using Generator;
 namespace Generator
 {
     class Device 
-    {
-        
+    {    
         public string name { get; set; }
         public int power { get; set; }
-
         public bool ispairing { get; set; }
-
-        
-      
         public Device(string name, int power)
         {
             this.name = name;
@@ -22,7 +17,6 @@ namespace Generator
         }
         public Device()
         {
-
         }
     }
 }
