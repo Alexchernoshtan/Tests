@@ -10,17 +10,13 @@ namespace Generator
         public int power { get; set; }
         public List<Device> devices = new List<Device>();
         public List<Device> alldevices = new List<Device>();
-
         //Все устройства
-
-
         public void Alldevices(params Device[] device)
         {
             foreach (Device d in device)
             {
                 alldevices.Add(d);
             }
-
         }
         //Совмещение двух устройств
         public void PairOfDevices(Device device1, Device device2)
@@ -40,7 +36,6 @@ namespace Generator
                 Device devicepair = new Device(device1.name +" "+ device2.name, device1.power + device2.power);
                 devices.Add(devicepair);
             }
-
         }
         //Подключение к генератору
         public void AddDevice(Device device)
@@ -60,9 +55,6 @@ namespace Generator
                 Console.WriteLine("Привышенна мощность генератора,подключение невозможно");
             }          
         }
-
-
-
         //Отключение от генератора
         public void DisconnectDevice(Device device)
         {
@@ -82,18 +74,14 @@ namespace Generator
             {
                 sum += d.power;
                 Console.WriteLine("Подключённые устройства:" + d.name + "\t" + "Суммарная мощность:" + sum);
-            }
-                
-                
+            }          
         }
-
         public Generator(int power)
         {
             this.power = power;
         }
         public Generator()
         {
-
         }
     }
     
