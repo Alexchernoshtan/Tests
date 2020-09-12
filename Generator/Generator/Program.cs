@@ -7,8 +7,7 @@ namespace Generator
     class Program
     {
         static void Main(string[] args)
-        {
-           
+        {  
             Generator generator = new Generator(100);
             Device mac = new Device("Macbook",45);
             Device mouse = new Device("mouse", 23);
@@ -18,25 +17,16 @@ namespace Generator
             Device printer = new Device("printer", 24);
             generator.Alldevices(mac, mouse, keyboard, tv, phone, printer);
             var all = generator.alldevices;
-           
-            
-
-
-
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.WriteLine("Мощность генератора : 100"+"\n");
             foreach (Device d in generator.alldevices)
             {
                 Console.WriteLine("Доступные устройства: "+d.name+" - мощность "+d.power+ "\n");
             }
-            
-
             Console.WriteLine("Соединить два устройства между собой и подключить : 1");
             Console.WriteLine("Подключить устройство к генератору : 2");
             Console.WriteLine("Отключить устройство от генератора : 3");
-
             int x1 = Convert.ToInt16(Console.ReadLine());
-       
                 switch (x1)
                 {
                     case 1:
@@ -46,7 +36,6 @@ namespace Generator
                         generator.PairOfDevices(all[x2], all[x3]);
                         generator.Output();
                         goto case 2;
-
                     case 2:
                         Console.WriteLine("Macbook : 1, Mouse :2, Keyboard : 3, TV :4 , Phone : 5 , Printer : 6");
                         int x4 = Convert.ToInt16(Console.ReadLine());
@@ -87,13 +76,8 @@ namespace Generator
                         Console.WriteLine("Отключаем устройство " + gen[value].name);
                         generator.DisconnectDevice(gen[value]);
                         generator.Output();
-
-                        break;
-                   
-            }
-            
-
-            
+                        break; 
+            }   
         }
     }
 }
