@@ -1,8 +1,37 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Generator {
     class Program {
+        public struct Point : Object {
+            // TODO Learn
+        }
+
+        public struct Point2 : Point {
+            // TODO Learn
+        }
+
         static void Main(string[] args) {
+            List<int> l = null;
+
+            Dictionary<int, int> keyValuePairs = null; // GetHasCode // Equals - Polymorpism
+            HashSet<int> hs;
+
+            int[] a = null;
+            Queue<int> q;
+            Stack<int> s;
+            LinkedList<int> ll;
+
+            //c# reference types vs value types
+
+            var gen = new Generator(1000);
+            var d1 = new Device("1", 100);
+            var d2 = new Device("2", 100);
+            var d3 = new Device("3", 100);
+
+            gen.Plug(d1);
+            gen.Unplug();
+
             Generator generator = new Generator(100);
             Device mac = new Device("Macbook", 45);
             Device mouse = new Device("mouse", 23);
@@ -15,7 +44,7 @@ namespace Generator {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.WriteLine("Мощность генератора : 100" + "\n");
             foreach (Device d in generator.Alldevices) {
-                Console.WriteLine("Доступные устройства: " + d.Name + " - мощность " + d.Power + "\n");
+                Console.WriteLine("Доступные устройства: " + d.Name + " - мощность " + d.ConsumptionPower + "\n");
             }
             Console.WriteLine("Соединить два устройства между собой и подключить : 1");
             Console.WriteLine("Подключить устройство к генератору : 2");
