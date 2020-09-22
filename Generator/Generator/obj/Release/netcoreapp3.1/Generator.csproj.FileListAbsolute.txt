@@ -1,0 +1,13 @@
+C:\Users\alexc\source\repos\Generator\Generator\bin\Release\netcoreapp3.1\Generator.exe
+C:\Users\alexc\source\repos\Generator\Generator\bin\Release\netcoreapp3.1\Generator.deps.json
+C:\Users\alexc\source\repos\Generator\Generator\bin\Release\netcoreapp3.1\Generator.runtimeconfig.json
+C:\Users\alexc\source\repos\Generator\Generator\bin\Release\netcoreapp3.1\Generator.runtimeconfig.dev.json
+C:\Users\alexc\source\repos\Generator\Generator\bin\Release\netcoreapp3.1\Generator.dll
+C:\Users\alexc\source\repos\Generator\Generator\bin\Release\netcoreapp3.1\Generator.pdb
+C:\Users\alexc\source\repos\Generator\Generator\obj\Release\netcoreapp3.1\Generator.AssemblyInfoInputs.cache
+C:\Users\alexc\source\repos\Generator\Generator\obj\Release\netcoreapp3.1\Generator.AssemblyInfo.cs
+C:\Users\alexc\source\repos\Generator\Generator\obj\Release\netcoreapp3.1\Generator.csproj.CoreCompileInputs.cache
+C:\Users\alexc\source\repos\Generator\Generator\obj\Release\netcoreapp3.1\Generator.dll
+C:\Users\alexc\source\repos\Generator\Generator\obj\Release\netcoreapp3.1\Generator.pdb
+C:\Users\alexc\source\repos\Generator\Generator\obj\Release\netcoreapp3.1\Generator.genruntimeconfig.cache
+C:\Users\alexc\source\repos\Generator\Generator\obj\Release\netcoreapp3.1\Generator.csprojAssemblyReference.cache
